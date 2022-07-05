@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Week6Task2</string>
+    <string name="cart_imageview">Cart_ImageView</string>
+    <string name="details">Details</string>
+    <string name="navigate_back">Navigate_Back</string>
+    <string name="coffee_background">Coffee_Background</string>
+    <string name="coffee_imageview">Coffee_ImageView</string>
+    <string name="caramel_nfrappuccino">Caramel \nFrappuccino</string>
+    <string name="price">$30.00</string>
+    <string name="best_sales">Best Sales</string>
+    <string name="size_options">Size Options</string>
+    <string name="tall">12 Fl Oz</string>
+    <string name="tall_text">Tall</string>
+    <string name="grande_text">Grande</string>
+    <string name="grande_size">16 Fl Oz</string>
+    <string name="venti">Venti</string>
+    <string name="venti_size">24 Fl Oz</string>
+    <string name="custom">Custom</string>
+    <string name="custom_size">_ _ Fl Oz</string>
+    <string name="one">1</string>
+    <string name="add_to_order">Add to Order</string>
+</resources>
